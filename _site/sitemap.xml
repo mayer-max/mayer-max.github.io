@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://0.0.0.0:4000/Research</loc>
+</url>
+<url>
+<loc>http://0.0.0.0:4000/about.html</loc>
+</url>
+<url>
+<loc>http://0.0.0.0:4000/</loc>
+</url>
+<url>
+<loc>http://0.0.0.0:4000/Banking_FLMO.pdf</loc>
+<lastmod>2020-06-24T16:13:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://0.0.0.0:4000/CV.pdf</loc>
+<lastmod>2020-06-24T14:52:48-05:00</lastmod>
+</url>
+<url>
+<loc>http://0.0.0.0:4000/FLMO_Automation.pdf</loc>
+<lastmod>2020-06-24T18:01:57-05:00</lastmod>
+</url>
+<url>
+<loc>http://0.0.0.0:4000/FMP_Networks.pdf</loc>
+<lastmod>2020-06-24T18:02:28-05:00</lastmod>
+</url>
+<url>
+<loc>http://0.0.0.0:4000/google071367b5f681dabc.html</loc>
+<lastmod>2020-06-25T14:29:30-05:00</lastmod>
+</url>
+</urlset>

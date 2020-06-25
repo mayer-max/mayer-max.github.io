@@ -1,2 +1,0 @@
-# mayer-max
-Website

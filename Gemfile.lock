@@ -19,12 +19,15 @@ GEM
       pathutil (~> 0.9)
       rouge (~> 1.7)
       safe_yaml (~> 1.0)
+    jekyll-analytics (0.1.14)
     jekyll-data (1.1.0)
       jekyll (>= 3.3, < 5.0.0)
     jekyll-feed (0.11.0)
       jekyll (~> 3.3)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
+    jekyll-sitemap (1.1.1)
+      jekyll (~> 3.3)
     jekyll-watch (1.5.1)
       listen (~> 3.0)
     kramdown (1.17.0)
@@ -53,7 +56,9 @@ PLATFORMS
 DEPENDENCIES
   academic
   jekyll (= 3.5.2)
+  jekyll-analytics
   jekyll-feed (~> 0.6)
+  jekyll-sitemap
   tzinfo-data
 
 BUNDLED WITH
