@@ -1,0 +1,36 @@
+
+title_html: <b>Max</b>Mayer
+title: Max Mayer
+email: mail.mayermaximilian@gmail.com
+curriculum:
+ name: See my CV!
+ url: /CV.pdf
+description: I'm a PhD candidate in economics from Goethe University Frankfurt. Write me an <a href=mailto:mail.mayermaximilian@gmail.com><b>E-Mail</b></a> or visit my <a href=https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3142719><b>SSRN page</b></a>.<br> 
+
+#<b>Contact:</b><br> Maximilian Mayer <br> Goethe University Frankfurt, Economics Department <br> House of Finance, Theodor-W.- Adorno Platz 3, 60323 Frankfurt <br> +49 (69) 798 33800  <br> <a href=mailto:mail.mayermaximilian@gmail.com><b>mail.mayermaximilian@gmail.com</b></a>
+
+
+github_username:  maxmayer1
+nav_ext_links: 
+ - name: CV
+   url : /CV.pdf
+linkedin_username: <a href=https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3142719> style="font-size:12px">SSRN page</a>
+
+# Build settings
+markdown: kramdown
+theme: academic
+
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
