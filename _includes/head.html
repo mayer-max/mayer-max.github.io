@@ -1,3 +1,17 @@
-{% assign plang = page.lang | default: site.langs[0] | default: "en" %} {% if page.seo.title %} {% else %} {% endif %} {% if page.seo.description %} {% elsif page.summary %} {% else %} {% endif %} {% capture favicons %} {% for file in site.static_files %} {% if file.path contains "apple-touch-icon.png" %} {% endif %} {% if file.path contains "favicon-16x16.png" %} {% endif %} {% if file.path contains "favicon-32x32.png" %} {% endif %} {% if file.path contains "manifest.json" %} {% endif %} {% if file.path contains "safari-pinned-tab.svg" %} {% endif %} {% endfor %} {% endcapture %} {{ favicons | strip_newlines | lstrip }} {% assign pagename = page.path | split:"." | first %} {% if page.layout == "post" %} {% assign i18n_posts = site.posts | where_exp:"p","p.path contains pagename" %} {% else %} {% assign i18n_posts = site.pages | where_exp:"p","p.path contains pagename" %} {% endif %} {% for t_lang in site.langs %} {% unless t_lang == plang %} {% assign t = i18n_posts | where:"lang",t_lang | first %} {% if t %} {% endif %} {% endunless %} {% endfor %} {% if site.piwik %} {% include piwik.html %} {% endif %} {% if jekyll.environment == 'production' %} {% endif %} {% if site.google_analytics and jekyll.environment == 'production' %}
-{% include analytics.html %}
-{% endif %}
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="1894.5">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
+    span.s1 {font-kerning: none}
+  </style>
+</head>
+<body>
+<p class="p1"><span class="s1">{% assign plang = page.lang | default: site.langs[0] | default: "en" %} {% if page.seo.title %} {% else %} {% endif %} {% if page.seo.description %} {% elsif page.summary %} {% else %} {% endif %} {% capture favicons %} {% for file in site.static_files %} {% if file.path contains "apple-touch-icon.png" %} {% endif %} {% if file.path contains "favicon-16x16.png" %} {% endif %} {% if file.path contains "favicon-32x32.png" %} {% endif %} {% if file.path contains "manifest.json" %} {% endif %} {% if file.path contains "safari-pinned-tab.svg" %} {% endif %} {% endfor %} {% endcapture %} {{ favicons | strip_newlines | lstrip }} {% assign pagename = page.path | split:"." | first %} {% if page.layout == "post" %} {% assign i18n_posts = site.posts | where_exp:"p","p.path contains pagename" %} {% else %} {% assign i18n_posts = site.pages | where_exp:"p","p.path contains pagename" %} {% endif %} {% for t_lang in site.langs %} {% unless t_lang == plang %} {% assign t = i18n_posts | where:"lang",t_lang | first %} {% if t %} {% endif %} {% endunless %} {% endfor %} {% if site.piwik %} {% include piwik.html %} {% endif %} {% if jekyll.environment == 'production' %} {% endif %}<span class="Apple-converted-space"> </span></span></p>
+</body>
+</html>
