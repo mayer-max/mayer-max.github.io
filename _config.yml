@@ -8,8 +8,7 @@ curriculum:
 description: I'm a PhD candidate in economics from Goethe University Frankfurt. Write me an <a href=mailto:mail.mayermaximilian@gmail.com><b>E-Mail</b></a> or visit my <a href=https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3142719><b>SSRN page</b></a>.<br> 
 
 #<b>Contact:</b><br> Maximilian Mayer <br> Goethe University Frankfurt, Economics Department <br> House of Finance, Theodor-W.- Adorno Platz 3, 60323 Frankfurt <br> +49 (69) 798 33800  <br> <a href=mailto:mail.mayermaximilian@gmail.com><b>mail.mayermaximilian@gmail.com</b></a>
-
-
+ 
 github_username:  maxmayer1
 nav_ext_links: 
  - name: CV
@@ -24,11 +23,7 @@ plugins:
   - jekyll-feed
   - jekyll-analytics
 
-jekyll_analytics:
-  GoogleAnalytics:          # Add, if you want to track with Google Analytics
-    id: UA-170778437-1          # Required - replace with your tracking id
-    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
-
+google_analytics: UA-170778437-1             
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
