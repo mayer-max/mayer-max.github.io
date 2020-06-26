@@ -22,6 +22,7 @@ theme: academic
 plugins:
   - jekyll-feed
   - jekyll-analytics
+  - jekyll-sitemap
 
 google_analytics: UA-170778437-1             
 
