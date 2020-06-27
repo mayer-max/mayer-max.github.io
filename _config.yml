@@ -2,9 +2,11 @@
 title_html: <b>Max</b>Mayer
 title: Max Mayer
 email: mail.mayermaximilian@gmail.com
+tagline: Max Mayer PhD student Economics Goethe University Frankfurt
+url : mayer-max.github.io
 curriculum:
  name: See my CV!
- url: "https://mayer-max-github.io"
+ url: "/CV.pdf"
 description: I'm a PhD candidate in economics from Goethe University Frankfurt. Write me an <a href=mailto:mail.mayermaximilian@gmail.com><b>E-Mail</b></a> or visit my <a href=https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3142719><b>SSRN page</b></a>.<br> 
 
 #<b>Contact:</b><br> Maximilian Mayer <br> Goethe University Frankfurt, Economics Department <br> House of Finance, Theodor-W.- Adorno Platz 3, 60323 Frankfurt <br> +49 (69) 798 33800  <br> <a href=mailto:mail.mayermaximilian@gmail.com><b>mail.mayermaximilian@gmail.com</b></a>
@@ -23,6 +25,7 @@ plugins:
   - jekyll-feed
   - jekyll-analytics
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 google_analytics: UA-170778437-1             
 
