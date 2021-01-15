@@ -28,10 +28,12 @@ This paper presents causal evidence of the effects of boardroom networks on firm
 ******
 
 ### Global Banking: Endogenous Competition and Risk Taking, January 2020
-*joint with [Ester Faia](https://sites.google.com/view/esterfaia), [Sebastien Laffitte](https://sites.google.com/view/slaffitte/) and [Gianmarco Ottaviano](http://faculty.unibocconi.eu/gianmarcoottaviano/)*  
+*joint with [Ester Faia](https://sites.google.com/view/esterfaia), [Sebastien Laffitte](https://sites.google.com/view/slaffitte/) and [Gianmarco Ottaviano](http://faculty.unibocconi.eu/gianmarcoottaviano/)*,  
+**accepted** *European Economic Review*  
 When banks expand abroad, their riskiness decreases if foreign expansion happens in destination countries that are more competitive than their origin countries. We reach this conclusion in three steps. First, we develop a flexible dynamic model of global banking with endogenous competition and endogenous risk-taking. Sec- ond, we calibrate and simulate the model to generate empirically relevant predic- tions. Third, we validate these predictions by testing them on an original dataset covering the activities of the 15 European global systemically important banks (G- SIBs). Our results hold across alternative measures of individual and systemic bank risk.
 
 [**Download most recent version**](/Banking_FLMO.pdf) 
+
 
 ******
 
