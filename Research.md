@@ -34,11 +34,3 @@ When banks expand abroad, their riskiness decreases if foreign expansion happens
 
 [**Download most recent version**](/Banking_FLMO.pdf) 
 
-
-******
-
-## Work in Progress
-
-### Wage Inequality and Sorting: Automation vs. Globalization in a Structural Analysis with Matched Employee-Employer Data
-*joint with [Ester Faia](https://sites.google.com/view/esterfaia), [Sebastien Laffitte](https://sites.google.com/view/slaffitte/) and [Gianmarco Ottaviano](http://faculty.unibocconi.eu/gianmarcoottaviano/)*
-
