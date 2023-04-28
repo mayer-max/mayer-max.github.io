@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Research",
+    "link": "/research",
+    "image": {
+      "url": "images/features/noun_The Process_1885341.svg",
+      "width": 5,
+      "height": 5
+    }
+  },
+  {
+    "title": "CV",
+    "link": "/cv.pdf",
+    "image": {
+      "url": "images/features/noun_branding_1885335.svg",
+      "width": 50,
+      "height": 50
+    }
+  }
+]
