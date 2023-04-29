@@ -4,7 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
 title: Research
-permalink: /Research
+description: Research
 ---
 
 ## Work in Progress/Working Papers
