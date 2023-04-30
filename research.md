@@ -1,7 +1,7 @@
 ---
-title: Contact
+title: Research
 layout: page
-description: Contact
+description: Research
 ---
 
 ## Work in Progress/Working Papers
