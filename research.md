@@ -1,7 +1,7 @@
 ---
 title: Research
 layout: page
-permalink: /Research
+permalink: /research
 ---
 
 ## Work in Progress/Working Papers
