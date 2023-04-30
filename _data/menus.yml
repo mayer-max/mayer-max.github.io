@@ -3,7 +3,7 @@ main:
     url: "/"
     weight: 2
   - name: "Research"
-    url: "/research/"
+    url: "/Research/"
     weight: 2
   - name: "CV"
     url: "/cv.pdf"
@@ -17,5 +17,5 @@ footer:
     url: "/"
     weight: 1
   - name: "Research"
-    url: "/research/"
+    url: "/Research/"
     weight: 2
