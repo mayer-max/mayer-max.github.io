@@ -13,7 +13,7 @@ logo:
 analytics: 
   provider: "google_gtag"
   google: 
-    measuremtne_id: "G-JVG3SCR2JT"
+    measurement_id: "G-JVG3SCR2JT"
    
 home: 
   limit_services: 6
@@ -23,7 +23,7 @@ collections:
     output: true
     sort_by: weight
   team:
-    output: true
+    output: false
 
 defaults:
   - scope:
