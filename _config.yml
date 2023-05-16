@@ -9,7 +9,12 @@ logo:
   desktop: 'Home'
   desktop_height: "0px"
   desktop_width: "0px"
-
+  
+analytics: 
+  provider: "google_gtag"
+  google: 
+    measuremtne_id: "G-JVG3SCR2JT"
+   
 home: 
   limit_services: 6
 
