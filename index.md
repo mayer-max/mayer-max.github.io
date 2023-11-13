@@ -12,6 +12,6 @@ show_call_box: false
 
 I am a Postdoc at the Halle Institue for Economic Research and work in Ufuk Akcigit’s research group ["The Economic Gap between East and West Germany"](https://www.iwh-halle.de/en/research/research-groups/detail/the-economic-gap-between-east-and-west-germany/).
 
-My research interests include labor economics, corporate governance & organization as well as networks.
+My research interests include Corporate Finance and Labor Economics.
 
 **Contact:** [maximilian.mayer@iwh-halle.de](mailto:maximilian.mayer@iwh-halle.de)
